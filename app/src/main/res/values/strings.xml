@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="amount">Principal Amount</string>
+    <string name="interest">Interest Rate</string>
+    <string name="tenure">Tenure</string>
+    <string name="calc">Calculate</string>
+    <string name="EMI">EMI </string>
+</resources>
